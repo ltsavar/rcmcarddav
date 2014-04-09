@@ -1,4 +1,1 @@
-rcmcarddav
-==========
-
-CardDAV plugin for RoundCube Webmailer
+PLEASE USE THE MASTER BRANCH! THIS BRANCH WILL BE DELETED SOON!
